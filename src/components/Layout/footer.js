@@ -85,9 +85,9 @@ export default function Footer() {
             <div className="col-12 col-md">
               {/* List */}
               <ul className="list-inline list-unstyled text-gray-600 small mb-md-0">
-                <li className="list-inline-item">© 2022 Project Manner PD</li>
+                <li className="list-inline-item">Made with ❤ by I.S King</li>
               </ul>
-            </div>
+            </div> 
             <div className="col-12 col-md-auto">
               {/* Social */}
               <ul className="list-inline list-unstyled text-gray-600 mb-0">
